@@ -2,6 +2,12 @@
 
 Diagnostic tool
 ===============================
+tetetb
+
+ test 
+
+
+ 
 
 Starting from version 2.1, the installation package includes diagnostic tool sdc-tantor.
 
